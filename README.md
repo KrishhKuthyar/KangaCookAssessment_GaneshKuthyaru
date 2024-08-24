@@ -20,5 +20,3 @@ Navigate back to the main project directory, then go to the frontend directory. 
 4. Using the Application
 
 Open a web browser and go to http://localhost:3000 to view the Movie Browser application. You will see a list of movies. Click on any movie title to view more detailed information about that movie. The frontend communicates with the backend using API endpoints, such as http://127.0.0.1:8000/api/movies/ for the list of movies, and http://127.0.0.1:8000/api/movies/<movie_id>/ for details about a specific movie.
-
-![image](https://github.com/user-attachments/assets/cd0d667a-9ec7-45a8-964e-0a98da4c5879)
